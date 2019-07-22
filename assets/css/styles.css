@@ -1,0 +1,20 @@
+body {
+    background-color: #99cc00;
+    color: #ffffff;
+}
+
+header {
+    background-color: cornsilk; 
+}
+
+nav {
+    background-color: red;
+}
+
+main {
+    background-color: aqua;
+}
+
+footer {
+    background-color: slategray;
+}
